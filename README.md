@@ -158,14 +158,6 @@
 ```bash
 go test -cover ./...
 ```
-
-## Линтинг
-
-Используется **golangci-lint** с конфигурацией в файле [`.golangci.yaml`](./.golangci.yaml).  
-Запуск линтера:
-```bash
-golangci-lint run
-```
 ---
 
 ## Другое
